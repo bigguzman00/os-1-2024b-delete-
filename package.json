@@ -1,0 +1,23 @@
+{
+  "name": "processes-prj",
+  "version": "1.0.0",
+  "description": "proyecto",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js '1'", 
+    "dev": "node --watch index.js '1'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigguzman00/os-1-2024b-delete-" 
+  },
+  "keywords": [
+    "operating",
+    "system",
+    "processes",
+    "node"
+  ],
+  "author": "bigguzman00",
+  "license": "MIT"
+}

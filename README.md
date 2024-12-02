@@ -1,4 +1,4 @@
-<center><img scr=""  alt=""></center>
+<center><img scr="/workspaces/os-1-2024b-delete-/md/imagenes"  alt=""></center>
 
 
 # os-1-2024b-delete-

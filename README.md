@@ -1,8 +1,7 @@
-<center><img scr="/workspaces/os-1-2024b-delete-/md/imagenes"  alt=""></center>
-
+<center><img scr="/workspaces/os-1-2024b-delete-/md/imagenes/itgam.jpg"  alt="itgam banner"></center>
 
 # os-1-2024b-delete-
-##Descripcion 
+## Descripcion 
 proyecto final de la materia de Sistemas Operativos | 2024B 
 
 # ⭐Autor 

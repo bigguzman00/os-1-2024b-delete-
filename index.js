@@ -1,6 +1,6 @@
-import { greeting as childprocesses} from "./projects/child-processes.js"; 
-import { greeting as ipc} from "./projects/ipc.js"; 
-import { greeting as processesstate } from "./projects/processes-state.js"; 
+import { chilprocesses as childprocesses} from "./projects/child-processes.js"; 
+import { ipc as ipc} from "./projects/ipc.js"; 
+import { processesstate as processesstate } from "./projects/processes-state.js"; 
 console.log("🧵 PROGRAMA DE PROCESOS 🧵 ");   
 let option = process.argv[2];
 switch (option){

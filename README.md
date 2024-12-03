@@ -1,5 +1,4 @@
-<center><img scr="/workspaces/os-1-2024b-delete-/md/imagenes/itgam.jpg"  alt="itgam banner"></center>
-
+"C:\Users\usuario\Downloads\ITGAM.png"
 # os-1-2024b-delete-
 ## Descripcion 
 proyecto final de la materia de Sistemas Operativos | 2024B 

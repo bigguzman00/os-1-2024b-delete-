@@ -1,5 +1,6 @@
 # 1-2024b-eliminar
-![Terrarium Image](./images/terrarium_banner.jpg)
+![ITGAM](https://github.com/user-attachments/assets/a47777a3-1da9-4bef-8d25-49a72c535fcf)
+
 
 ## Descripción
 Proyecto Final de la Materia de Sistemas Operativos I 💗

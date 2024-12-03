@@ -11,5 +11,7 @@ Proyecto Final de la Materia de Sistemas Operativos I 💗
     alt="Roweena Isadora" 
     width="200"/>
 ## Ramas de proyecto 🪴
+
 [🏆 S04E99](#) 
+
 Soy una estudiante de programación web👉 isawoodspines@gmail.com

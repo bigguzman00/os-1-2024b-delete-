@@ -3,8 +3,7 @@
 
 ## Descripción
 Proyecto Final de la Materia de Sistemas Operativos I 💗
-
-## Autor
+# ⭐Autor 
 [Roweena Isadora](https://github.com/CassandraPresley)
 
 <img 

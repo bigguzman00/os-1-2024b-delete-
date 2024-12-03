@@ -2,10 +2,11 @@
 ![Terrarium Image](./images/terrarium_banner.jpg)
 
 ## Descripción
-Proyecto de la clase de Programación web orientado 
-a practicar las bases del código HTML + CSS + JS 💗
+Proyecto Final de la Materia de Sistemas Operativos I 💗
 
 ## Autor
+[Roweena Isadora](https://github.com/CassandraPresley)
+
 <img 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOReUayJsjOls5u0rPpG_l6asS90hmSy5aoQ&s" 
     alt="Roweena Isadora" 

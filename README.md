@@ -1,4 +1,4 @@
-# Terrarium 2023-A
+# 1-2024b-eliminar
 ![Terrarium Image](./images/terrarium_banner.jpg)
 
 ## Descripción
